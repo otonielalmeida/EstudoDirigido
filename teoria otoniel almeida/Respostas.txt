@@ -1,0 +1,29 @@
+3)e
+4)While significa enquanto a 
+condição for verdadeira.A parte
+da execução dos códigos vem depois
+da chave("{").
+5)O comando inicial é o "for", 
+enquanto "i" que é igual a 0 for 
+menor que quantos, incrementar 
+mais 1. "Se" o tamanho da "sequencia" for 
+maior que 0, sequencia + numeros[i].
+6)a)Atributos:String nome, double marcas
+6)b)publico 
+6)c)marcas = 10
+6)d)get e set
+6)e)constructor
+7)a)get valor recebe o valor, 
+return valor retorna o valor digitado.
+public significa que este metodo pode ser 
+acessado por outra classe
+7)b)publico, void, sem retorno.
+Atribui valor ao " int valor"
+7)c)
+7)d)recebe uma frase e retorna a String nome
+8)a
+9)doc1 imprimirá Alfredo
+doc2 imprimirá Juliana
+10)c
+
+
